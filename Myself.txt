@@ -3,8 +3,5 @@ I am a student.
 I love coding.
 I am a good learner.
 I study in IPS Academy, Indore
-<<<<<<< my-place
 I belong to muzaffarpur, bihar.
-=======
 I am learning git and github.
->>>>>>> main
